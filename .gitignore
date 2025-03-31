@@ -1,0 +1,16 @@
+# Build folders
+build/
+dist/
+__pycache__/
+*.spec
+
+# Python environment
+.env/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific
+.DS_Store
+Thumbs.db
