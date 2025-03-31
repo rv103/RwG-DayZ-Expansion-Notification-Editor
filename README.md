@@ -9,7 +9,7 @@ Perfect for server admins who want to manage automated server messages, restarts
 
 - 📂 Load and edit your `NotificationSchedulerSettings.json`
 - ➕ Add, ✏️ edit, 🗑 delete notifications
-- 🎨 Pick colors with a color picker
+- 🎨 Change colors
 - 🖼 Choose and set icons
 - ⏱ Set time using hour, minute & second fields with validation
 - 💾 Save changes or export new configs
