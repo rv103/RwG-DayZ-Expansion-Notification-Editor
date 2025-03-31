@@ -19,8 +19,6 @@ Perfect for server admins who want to manage automated server messages, restarts
 
 ## 📷 Screenshots
 
-> _(Replace with your own screenshots or remove this section if not needed)_
-
 | Main Window                          | Edit Notification                        |
 |-------------------------------------|------------------------------------------|
 | ![Main](screenshots/main.png)       | ![Editor](screenshots/editor.png)        |
