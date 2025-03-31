@@ -52,15 +52,9 @@ PyInstaller (to create .exe builds)
 
 To run the editor from source:
 
-bash
-Kopieren
-Bearbeiten
 python NotificationScheduler.py
 To create a standalone executable:
 
-bash
-Kopieren
-Bearbeiten
 pyinstaller --noconfirm --onefile --windowed NotificationScheduler.py
 📦 Download
 You can find the latest .exe release under the Releases tab.
