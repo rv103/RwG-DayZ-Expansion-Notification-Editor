@@ -35,12 +35,32 @@ Perfect for server admins who want to manage automated server messages, restarts
 2. **Edit notifications**:  
    - Double-click to edit
    - Add or delete entries
-   - Reorder by drag & drop
    - Use the color picker and icon field
 
 3. **Save or export** the modified configuration
 
 ---
+
+🛠 For Developers
+This project is built with:
+
+Python 3
+
+Tkinter (for GUI)
+
+PyInstaller (to create .exe builds)
+
+To run the editor from source:
+
+python NotificationScheduler.py
+To create a standalone executable:
+
+pyinstaller --noconfirm --onefile --windowed NotificationScheduler.py
+📦 Download
+You can find the latest .exe release under the Releases tab.
+
+🧑‍💻 Contribute
+Feel free to open issues or submit pull requests. Suggestions and improvements are always welcome!
 
 ## 💡 File Format Example
 
@@ -62,3 +82,4 @@ Perfect for server admins who want to manage automated server messages, restarts
     }
   ]
 }
+
